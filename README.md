@@ -1,2 +1,3 @@
 # stylelist-calculater
-![image](https://github.com/BuddhadebKoner/stylelist-calculater/assets/113292029/b66e6a4a-23e1-4555-aa1d-30321a297ef7)
+![image](https://github.com/BuddhadebKoner/stylelist-calculater/assets/113292029/bbb09944-7fb5-4a23-8288-2df2b6cb3703)
+
